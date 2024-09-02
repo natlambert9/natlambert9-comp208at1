@@ -1,0 +1,39 @@
+body{background-color: rgb(255, 255, 255);}
+#heading1{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align: center;color: white;background-color:rgb(12, 12, 87);padding: 40px;border: solid;border-color: black;}
+#nav{display: flex;padding: 25px;background-color: rgb(12, 12, 87);border: solid;border-color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;gap: 150px;}
+#nav a {color: rgb(255, 255, 255);}
+#nav a.current {color: red;}
+#nav a:hover {color: green;}
+#line{height: 5px;border: none;background-color: black;}
+#container1 {display: flex;gap: 20px;align-items: flex-start;}
+#welcome {margin: 50px;border: solid;padding: 15px;width: 40%;font-family:Georgia, 'Times New Roman', Times, serif;display: grid;}
+#woodworkimages { margin: 50px;border: solid;padding: 15px;;font-family: Georgia, 'Times New Roman', Times, serif;display: grid;}
+#quote1{background-color: rgb(18, 24, 78);text-align: center;padding: 20px;font-family: cursive;color: white;}
+#contact{text-align: center;}
+#projectscompleted{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align: center;color: rgb(0, 0, 0);}
+#container2, #container3 {display: flex;border: solid;padding: 15px;justify-content: center; gap: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;}
+#contact2{text-align: center;background-color: rgb(12, 12, 87);color: white;padding: 15px;}
+#alittlebitaboutme{text-align: center;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#quote2{background-color: rgb(18, 24, 78);text-align: center;padding: 20px;font-family: cursive;color: white;}
+#container4{display: flex; gap: 40px;margin: 50px;border: solid;padding: 15px;margin-top: 0%;font-family:Georgia, 'Times New Roman', 
+    Times, serif}
+#whytas{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align: center;color: white;
+    background-color:rgb(12, 12, 87);padding: 40px;border: solid;border-color: black;}
+#aboutmetext{margin: 50px;font-family:Georgia, 'Times New Roman', Times, serif;}
+#container5{display: flex;margin: 100px;gap: 200px;margin-top: 0;font-family:Georgia, 'Times New Roman', Times, serif;}
+#form{font-family:Georgia, 'Times New Roman', Times, serif;}
+#personal-details{margin: 50px;margin-top: 0;font-family:Georgia, 'Times New Roman', Times, serif;}
+#container6{display: flex;margin: 50px;margin-top: 0;border: solid;gap: 20px;padding: 15px;font-family: Georgia, 
+    'Times New Roman', Times, serif;background-color: rgb(12, 12, 87);color: white;}
+#container7{display: flex;margin: 50px;margin-top: 0;border: solid;gap: 20px;padding: 15px;font-family: Georgia, 
+    'Times New Roman', Times, serif;background-color: rgb(12, 12, 87);color: white;}
+#workteachings{margin: 50px;font-family: Georgia,'Times New Roman', Times, serif;}
+#knowledgeandskills{text-align: center;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+#knowledgeandskills2{background-color: rgb(12, 12, 87);color: white;font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;text-align: center;}
+#container8,#container9{display: flex;margin: 50px;gap: 300px;margin-top: 0;border: solid;padding: 15px;font-family: Georgia, 
+    'Times New Roman', Times, serif;}
+#techrelationship{text-align: center;font-family: Georgia, 'Times New Roman', Times, serif;}
+
